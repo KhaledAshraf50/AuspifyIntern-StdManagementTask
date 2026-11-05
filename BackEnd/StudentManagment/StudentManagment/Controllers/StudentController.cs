@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using StudentManagment.Models;
 
 namespace StudentManagment.Controllers
@@ -17,6 +18,10 @@ namespace StudentManagment.Controllers
         public IActionResult GetStudents()
         {
             var allStudents = _context.Students.ToList();
+            foreach (var student in allStudents)
+            {
+                student.Department = _context.Departments.FirstOrDefault(d => d.Id == student.Dept_Id);
+            }
             return Ok(allStudents);
         }
         [HttpGet("{id:int}")]
@@ -46,6 +51,7 @@ namespace StudentManagment.Controllers
             }
             existingStudent.Name = student.Name;
             existingStudent.Email = student.Email;
+            existingStudent.Dept_Id = student.Dept_Id;
             _context.SaveChanges();
             return Ok(existingStudent);
         }

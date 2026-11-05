@@ -1,0 +1,13 @@
+# Visual Studio temporary files
+.vs/
+bin/
+obj/
+
+# Node modules for React
+node_modules/
+build/
+dist/
+
+# Other temporary files
+*.user
+*.suo

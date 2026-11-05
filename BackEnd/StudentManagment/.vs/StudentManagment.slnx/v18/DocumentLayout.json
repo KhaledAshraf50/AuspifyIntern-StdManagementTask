@@ -1,42 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\",
+  "WorkspaceRootPath": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C603446A-2990-4247-B9D5-B27280D8AA64}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\studentmanagment\\studentmanagment\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C603446A-2990-4247-B9D5-B27280D8AA64}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\backend\\studentmanagment\\studentmanagment\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C603446A-2990-4247-B9D5-B27280D8AA64}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\studentmanagment\\studentmanagment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C603446A-2990-4247-B9D5-B27280D8AA64}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\backend\\studentmanagment\\studentmanagment\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C603446A-2990-4247-B9D5-B27280D8AA64}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\studentmanagment\\studentmanagment\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C603446A-2990-4247-B9D5-B27280D8AA64}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\backend\\studentmanagment\\studentmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C603446A-2990-4247-B9D5-B27280D8AA64}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\studentmanagment\\studentmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C603446A-2990-4247-B9D5-B27280D8AA64}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\AppData\\Local\\Temp\\.vsdbgsrc\\ed91e5e81dcb705059b94581454e31ac9726b428281fffae8d34c39c9e0c439f\\BrowserRefreshMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Migrations\\20261101123410_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagment\\Migrations\\20261101123410_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\backend\\studentmanagment\\studentmanagment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C603446A-2990-4247-B9D5-B27280D8AA64}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\studentmanagment\\studentmanagment\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C603446A-2990-4247-B9D5-B27280D8AA64}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\backend\\studentmanagment\\studentmanagment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C603446A-2990-4247-B9D5-B27280D8AA64}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\studentmanagment\\studentmanagment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C603446A-2990-4247-B9D5-B27280D8AA64}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\backend\\studentmanagment\\studentmanagment\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C603446A-2990-4247-B9D5-B27280D8AA64}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\studentmanagment\\studentmanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C603446A-2990-4247-B9D5-B27280D8AA64}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\backend\\studentmanagment\\studentmanagment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C603446A-2990-4247-B9D5-B27280D8AA64}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\studentmanagment\\studentmanagment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C603446A-2990-4247-B9D5-B27280D8AA64}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\backend\\studentmanagment\\studentmanagment\\migrations\\20261101123410_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\migrations\\20261101123410_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\backend\\studentmanagment\\studentmanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|d:\\auspifyintern\\studentmanagementsys\\backend\\studentmanagment\\studentmanagment\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0639ED1F-5631-A494-7801-49473BBCA0D2}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +53,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,39 +73,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "StudentManagment\\Controllers\\DepartmentController.cs",
-              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "StudentManagment\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwCsAAAADAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "BrowserRefreshMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\AppData\\Local\\Temp\\.vsdbgsrc\\ed91e5e81dcb705059b94581454e31ac9726b428281fffae8d34c39c9e0c439f\\BrowserRefreshMiddleware.cs",
+              "ToolTip": "C:\\Users\\Khaled\\AppData\\Local\\Temp\\.vsdbgsrc\\ed91e5e81dcb705059b94581454e31ac9726b428281fffae8d34c39c9e0c439f\\BrowserRefreshMiddleware.cs [Read Only]",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAjwFMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-01T15:51:49.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T20:06:50.203Z",
+              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagment\\appsettings.json",
+              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\appsettings.json",
+              "RelativeToolTip": "StudentManagment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-01T12:28:26.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagment\\Models\\Student.cs",
+              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagment\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:11:51.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "StudentManagment\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\Controllers\\StudentController.cs",
               "RelativeToolTip": "StudentManagment\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwDUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-01T12:35:10.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentManagment\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentManagment\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-01T12:09:14.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Program.cs",
+              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagment\\Program.cs",
-              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Program.cs",
+              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\Program.cs",
               "RelativeToolTip": "StudentManagment\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAACcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-01T12:31:52.699Z",
               "EditorCaption": ""
@@ -106,80 +147,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "StudentManagment\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Properties\\launchSettings.json",
-              "RelativeToolTip": "StudentManagment\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-01T12:09:14.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20261101123410_InitialCreate.cs",
-              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Migrations\\20261101123410_InitialCreate.cs",
-              "RelativeDocumentMoniker": "StudentManagment\\Migrations\\20261101123410_InitialCreate.cs",
-              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Migrations\\20261101123410_InitialCreate.cs",
-              "RelativeToolTip": "StudentManagment\\Migrations\\20261101123410_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "StudentManagment\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "StudentManagment\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-01T12:34:10.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\appsettings.json",
-              "RelativeDocumentMoniker": "StudentManagment\\appsettings.json",
-              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\appsettings.json",
-              "RelativeToolTip": "StudentManagment\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-01T12:28:26.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DBContext.cs",
-              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Models\\DBContext.cs",
-              "RelativeDocumentMoniker": "StudentManagment\\Models\\DBContext.cs",
-              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Models\\DBContext.cs",
-              "RelativeToolTip": "StudentManagment\\Models\\DBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-01T12:19:57.492Z",
+              "WhenOpened": "2026-11-01T15:51:49.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Department.cs",
-              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "StudentManagment\\Models\\Department.cs",
-              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Models\\Department.cs",
-              "RelativeToolTip": "StudentManagment\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "20261101123410_InitialCreate.cs",
+              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\Migrations\\20261101123410_InitialCreate.cs",
+              "RelativeDocumentMoniker": "StudentManagment\\Migrations\\20261101123410_InitialCreate.cs",
+              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\Migrations\\20261101123410_InitialCreate.cs",
+              "RelativeToolTip": "StudentManagment\\Migrations\\20261101123410_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-01T12:13:09.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-01T12:34:10.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\Models\\DBContext.cs",
+              "RelativeDocumentMoniker": "StudentManagment\\Models\\DBContext.cs",
+              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\Models\\DBContext.cs",
+              "RelativeToolTip": "StudentManagment\\Models\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:19:57.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "StudentManagment\\Models\\Department.cs",
+              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\Models\\Department.cs",
+              "RelativeToolTip": "StudentManagment\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:13:09.942Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "StudentManagment\\Models\\Student.cs",
-              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\Models\\Student.cs",
-              "RelativeToolTip": "StudentManagment\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-01T12:11:51.548Z",
-              "EditorCaption": ""
+              "Title": "test.http",
+              "DocumentMoniker": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\test.http",
+              "RelativeDocumentMoniker": "StudentManagment\\test.http",
+              "ToolTip": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\test.http",
+              "RelativeToolTip": "StudentManagment\\test.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-03T19:50:45.201Z"
             }
           ]
         }

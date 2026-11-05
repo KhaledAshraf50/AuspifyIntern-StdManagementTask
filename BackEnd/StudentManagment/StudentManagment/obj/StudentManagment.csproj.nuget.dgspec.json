@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\StudentManagment.csproj": {}
+    "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\StudentManagment.csproj": {}
   },
   "projects": {
-    "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\StudentManagment.csproj": {
+    "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\StudentManagment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\StudentManagment.csproj",
+        "projectUniqueName": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\StudentManagment.csproj",
         "projectName": "StudentManagment",
-        "projectPath": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\StudentManagment.csproj",
+        "projectPath": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\StudentManagment.csproj",
         "packagesPath": "C:\\Users\\Khaled\\.nuget\\packages\\",
-        "outputPath": "D:\\AuspifyIntern\\StudentManagementSys\\StudentManagment\\StudentManagment\\obj\\",
+        "outputPath": "D:\\AuspifyIntern\\StudentManagementSys\\BackEnd\\StudentManagment\\StudentManagment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,6 +52,10 @@
           "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.20, )"
